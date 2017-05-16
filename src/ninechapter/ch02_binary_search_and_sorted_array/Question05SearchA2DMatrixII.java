@@ -17,6 +17,9 @@ package ninechapter.ch02_binary_search_and_sorted_array;
 /**
  * Created by anduo on 17-3-13.
  */
+
+//From Amao
+//数组中每一个数，左边比它小，右边比它大
 public class Question05SearchA2DMatrixII {
     public int searchMatrix(int[][] matrix, int target) {
         if (matrix == null
